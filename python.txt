@@ -1,0 +1,28 @@
+immutable
+    number
+    string
+    tuples
+muttable
+    list
+    dictionary
+    set
+
+del-delete reference to a number object
+type- data type of variable
+attribute  sep='\n' - new line
+id()- memory location
+
+character at perticular index in string --index starting from 0.  stringname[0] .
+slice a string- str1[:]
++ - concatenation
+* - repeatition
+positive index -  0,1,2,3,4  starts from left
+negative index-  -1,-2,-3,-4.....starts from right
+we can update/delete entire string but can not single character
+.format()-  positional order ,keyword order
+
+print(a.__sizeof__())- print the size of internal memory of variable.
+if we use single / for division then answer will be in decimal value.
+// answer will be round off
+
+
